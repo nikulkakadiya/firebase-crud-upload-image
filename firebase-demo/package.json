@@ -1,0 +1,20 @@
+{
+    "name": "firebase-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app.js",
+        "test": "ed\" && cho \"Error: no test specifieexit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "firebase": "^9.21.0",
+        "firebase-admin": "^11.8.0",
+        "nodemon": "^2.0.22"
+    }
+}
